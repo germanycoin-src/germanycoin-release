@@ -11,10 +11,10 @@ What is Germanycoin?
 ----------------
 
 Germanycoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2 minute block targets
- - subsidy halves in ~8 months, gradually
- - 50 million total coins, 50% of which are premined to give away to Spaniards
- - 100 coins per block
+ - 1 minute block targets
+ - Block reward decreasing 1 coin every 40 days 
+ - 42 million total coins, 50% of which are premined to give away to Germans
+ - 25 coins per block
  - Retarget every block (Kimoto's gravity well)
 
 For more information, as well as an immediately useable, binary version of
